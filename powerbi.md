@@ -4,7 +4,13 @@ Formulas em dax para Power BI para criação de card de valor total + valor do m
 ## Card de Visualização com comparativo de data e variação percentual com formatação positiva ou negativa
 1. Antes de começar deve extrair uma base contendo os dados que será utilizado, no meu caso os dados forma extraidos através do supermetricasde das plataformas Facebook Insights e Instagram Insights e depois exportados em xls para Power BI onde foram tratador e calculados as medidas de *Impressions*, *Engagement* e *Engagement Tax*.
 2. Também foi criado uma tabela de *Calendário* e conectada com a tabela de dados das plataformas insights para criação de comparativos e evoluções mensais.
-   
+
+<div align="center"
+
+![image](https://github.com/remargoni/Data-Driven-Marketing-PBI/assets/138613597/be632bbb-78ea-4d64-ab8c-6298c2bc5f51)
+
+</div>
+
 ## Medidas Impressions
 Deve ser alterado o formato para dinamico por que as formulas são aplicadas tanto no campo de medida quanto no campo de formato.
 
