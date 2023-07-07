@@ -2,7 +2,7 @@
 Formulas em dax para Power BI para criação de card de valor total + valor do mês anterior + variação percentual.
 
 ## Card de Visualização com comparativo de data e variação percentual com formatação positiva ou negativa
-1. Antes de começar deve extrair uma base contendo os dados que será utilizado, no meu caso os dados forma extraidos através do supermetricasde das plataformas Facebook Insights e Instagram Insights e depois exportados em xls para Power BI onde foram tratador e calculados as medidas de *Impressions*, *Engagement* e *Engagement Tax*.
+1. Antes de começar deve extrair uma base contendo os dados que será utilizado, no meu caso os dados forma extraidos através do supermetricasde das plataformas Facebook Insights e Instagram Insights e depois exportados em xls para Power BI onde foram tratados e posteriormente feito calculos para gerar as medidas de *Impressions*, *Engagement* e *Engagement Tax*.
 2. Também foi criado uma tabela de *Calendário* e conectada com a tabela de dados das plataformas insights para criação de comparativos e evoluções mensais.
 
 <div align="center"
